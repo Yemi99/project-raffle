@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+//source: https://spaceofmatej.com/build-a-raffle-system-in-solidity
 pragma solidity ^0.8.0;
 contract Raffle {
     address[] contestants;
